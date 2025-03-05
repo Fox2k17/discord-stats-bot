@@ -1,0 +1,11 @@
+{
+	"messageChannel": "",
+	"afkChannel": "",
+	"showLimit_1": 10,
+	"showLimit_2": 10,
+	"showLimit_3": 10,
+	"messages": {
+		"COOLDOWN_MESSAGE": "Musisz poczekać `<duration>`!"
+	},
+	"sqlite": true
+}
