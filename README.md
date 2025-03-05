@@ -1,5 +1,5 @@
 
-# Discord voice stats bot - 🇵🇱
+# Discord voice stats bot - 🇵🇱 (Ostatni update 25.11.2023)
 
 #### **Informacje ogólne**
 
